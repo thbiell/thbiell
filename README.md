@@ -28,10 +28,10 @@ Estou aberto a colaborações e oportunidades de aprendizado na área de tecnolo
 <div align="center">
   <h2>💻 Algumas estatísticas 💻</h2>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thbiell&show_icons=true&count_private=true&theme=midnight-purple" alt="Estatísticas do GitHub de Thiago"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbiell&layout=compact&theme=midnight-purple" alt="Linguagens mais usadas por Thiago"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbiell&layout=compact&theme=midnight-purple" alt="Linguagens mais usadas por Thiago"/>
 </div>
 <div align="center">
-  <img src="https://github.com/thbiell/thbiell/assets/101123186/abd55218-3541-4a92-af16-291591d2c009" alt="Y3il">
-  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/thbiell/thbiell/assets/101123186/abd55218-3541-4a92-af16-291591d2c009" alt="Y3il" style="display: inline-block;">
+  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="display: inline-block;">
   <img src="https://github.com/thbiell/thbiell/assets/101123186/0f6c8719-655b-4528-8653-37299d7f985d" alt="WiCJ">
 </div>
