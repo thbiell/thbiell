@@ -2,8 +2,9 @@
   <h1>Olá! Eu sou o Thiago Gabriel ❄️</h1>
   Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na FIAP e apaixonado por tecnologia!
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thbiell/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/th.biell/)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/thbiell/)
+  [<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://www.instagram.com/th.biell/)
+
 
   <img src="https://github.com/thbiell/thbiell/assets/101123186/d41c9e96-efd8-479b-bbc9-64d6c7a55a41" alt="1Ndd">
 </div>
