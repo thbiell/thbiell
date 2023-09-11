@@ -17,7 +17,7 @@ Sou um estudante de ADS com grande interesse em desenvolvimento Full Stack. Minh
 
 - 💻 Desenvolvimento de Software
 - 📱 Aplicativos Móveis
-- 🌐 Desenvolvimento Web
+- 🌐 Desenvolvimento Web, API´s e backend
 - 🤖 Inteligência Artificial e Automação
 - 🎨 Arte e Design
 - 🎵 Música
