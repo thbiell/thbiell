@@ -25,6 +25,8 @@ Sou um estudante de ADS com grande interesse em desenvolvimento Full Stack. Minh
 
 Estou aberto a colaborações e oportunidades de aprendizado na área de tecnologia. Sinta-se à vontade para se conectar comigo e trocar ideias!
 
+Link do meu site: https://thbiell.github.io/portfolio/
+
 <div align="center">
   <h2>💻 Algumas estatísticas 💻</h2>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thbiell&show_icons=true&count_private=true&theme=midnight-purple" alt="Estatísticas do GitHub de Thiago"/>
