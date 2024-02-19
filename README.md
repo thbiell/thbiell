@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou o Thiago Gabriel ❄️ </h1>
-  Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na FIAP e apaixonado por tecnologia!
+  Formado em Análise e desenvolvimento de sistemas na FIAP.
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/thbiell/)
   [<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://www.instagram.com/th.biell/)
